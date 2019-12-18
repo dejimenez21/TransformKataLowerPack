@@ -1,0 +1,10 @@
+C:\Users\Elvis Gilbert\Documents\GitHub\LowerPackPack\LowerPackTranformation\bin\Debug\LowerPackTranformation.dll
+C:\Users\Elvis Gilbert\Documents\GitHub\LowerPackPack\LowerPackTranformation\bin\Debug\LowerPackTranformation.pdb
+C:\Users\Elvis Gilbert\Documents\GitHub\LowerPackPack\LowerPackTranformation\obj\Debug\LowerPackTranformation.csprojAssemblyReference.cache
+C:\Users\Elvis Gilbert\Documents\GitHub\LowerPackPack\LowerPackTranformation\obj\Debug\LowerPackTranformation.dll
+C:\Users\Elvis Gilbert\Documents\GitHub\LowerPackPack\LowerPackTranformation\obj\Debug\LowerPackTranformation.pdb
+C:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\LowerPackPack\LowerPackTranformation\bin\Debug\LowerPackTranformation.dll
+C:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\LowerPackPack\LowerPackTranformation\bin\Debug\LowerPackTranformation.pdb
+C:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\LowerPackPack\LowerPackTranformation\obj\Debug\LowerPackTranformation.csprojAssemblyReference.cache
+C:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\LowerPackPack\LowerPackTranformation\obj\Debug\LowerPackTranformation.dll
+C:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\LowerPackPack\LowerPackTranformation\obj\Debug\LowerPackTranformation.pdb

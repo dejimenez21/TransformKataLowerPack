@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowerPackTranformation", "LowerPackTranformation\LowerPackTranformation.csproj", "{27E9D43A-2FB3-4E2D-923A-E1D4C1EA49E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowerPackTranformation.Tests", "LowerPackTranformation.Tests\LowerPackTranformation.Tests.csproj", "{943323CE-9271-4996-9E9B-3A8CE931B82D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27E9D43A-2FB3-4E2D-923A-E1D4C1EA49E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E9D43A-2FB3-4E2D-923A-E1D4C1EA49E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E9D43A-2FB3-4E2D-923A-E1D4C1EA49E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E9D43A-2FB3-4E2D-923A-E1D4C1EA49E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{943323CE-9271-4996-9E9B-3A8CE931B82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{943323CE-9271-4996-9E9B-3A8CE931B82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{943323CE-9271-4996-9E9B-3A8CE931B82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{943323CE-9271-4996-9E9B-3A8CE931B82D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ABB604C-FD24-4C91-B3F8-EE2F2F0CCE3A}
+	EndGlobalSection
+EndGlobal

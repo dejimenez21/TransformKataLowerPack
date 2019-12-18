@@ -1,0 +1,45 @@
+C:\Users\Angel Ruiz\source\repos\LowerPackTranformation\LowerPackTranformation.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Angel Ruiz\source\repos\LowerPackTranformation\LowerPackTranformation.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Angel Ruiz\source\repos\LowerPackTranformation\LowerPackTranformation.Tests\bin\Debug\nunit.engine.dll
+C:\Users\Angel Ruiz\source\repos\LowerPackTranformation\LowerPackTranformation.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\Angel Ruiz\source\repos\LowerPackTranformation\LowerPackTranformation.Tests\bin\Debug\LowerPackTranformation.Tests.dll
+C:\Users\Angel Ruiz\source\repos\LowerPackTranformation\LowerPackTranformation.Tests\bin\Debug\LowerPackTranformation.Tests.pdb
+C:\Users\Angel Ruiz\source\repos\LowerPackTranformation\LowerPackTranformation.Tests\bin\Debug\LowerPackTranformation.dll
+C:\Users\Angel Ruiz\source\repos\LowerPackTranformation\LowerPackTranformation.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Angel Ruiz\source\repos\LowerPackTranformation\LowerPackTranformation.Tests\bin\Debug\LowerPackTranformation.pdb
+C:\Users\Angel Ruiz\source\repos\LowerPackTranformation\LowerPackTranformation.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Angel Ruiz\source\repos\LowerPackTranformation\LowerPackTranformation.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Angel Ruiz\source\repos\LowerPackTranformation\LowerPackTranformation.Tests\obj\Debug\LowerPackTranformation.Tests.csprojAssemblyReference.cache
+C:\Users\Angel Ruiz\source\repos\LowerPackTranformation\LowerPackTranformation.Tests\obj\Debug\LowerPackTranformation.Tests.csproj.CopyComplete
+C:\Users\Angel Ruiz\source\repos\LowerPackTranformation\LowerPackTranformation.Tests\obj\Debug\LowerPackTranformation.Tests.dll
+C:\Users\Angel Ruiz\source\repos\LowerPackTranformation\LowerPackTranformation.Tests\obj\Debug\LowerPackTranformation.Tests.pdb
+C:\Users\Elvis Gilbert\Documents\GitHub\LowerPackPack\LowerPackTranformation.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Elvis Gilbert\Documents\GitHub\LowerPackPack\LowerPackTranformation.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Elvis Gilbert\Documents\GitHub\LowerPackPack\LowerPackTranformation.Tests\bin\Debug\nunit.engine.dll
+C:\Users\Elvis Gilbert\Documents\GitHub\LowerPackPack\LowerPackTranformation.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\Elvis Gilbert\Documents\GitHub\LowerPackPack\LowerPackTranformation.Tests\bin\Debug\LowerPackTranformation.Tests.dll
+C:\Users\Elvis Gilbert\Documents\GitHub\LowerPackPack\LowerPackTranformation.Tests\bin\Debug\LowerPackTranformation.Tests.pdb
+C:\Users\Elvis Gilbert\Documents\GitHub\LowerPackPack\LowerPackTranformation.Tests\bin\Debug\LowerPackTranformation.dll
+C:\Users\Elvis Gilbert\Documents\GitHub\LowerPackPack\LowerPackTranformation.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Elvis Gilbert\Documents\GitHub\LowerPackPack\LowerPackTranformation.Tests\bin\Debug\LowerPackTranformation.pdb
+C:\Users\Elvis Gilbert\Documents\GitHub\LowerPackPack\LowerPackTranformation.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Elvis Gilbert\Documents\GitHub\LowerPackPack\LowerPackTranformation.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Elvis Gilbert\Documents\GitHub\LowerPackPack\LowerPackTranformation.Tests\obj\Debug\LowerPackTranformation.Tests.csprojAssemblyReference.cache
+C:\Users\Elvis Gilbert\Documents\GitHub\LowerPackPack\LowerPackTranformation.Tests\obj\Debug\LowerPackTranformation.Tests.csproj.CopyComplete
+C:\Users\Elvis Gilbert\Documents\GitHub\LowerPackPack\LowerPackTranformation.Tests\obj\Debug\LowerPackTranformation.Tests.dll
+C:\Users\Elvis Gilbert\Documents\GitHub\LowerPackPack\LowerPackTranformation.Tests\obj\Debug\LowerPackTranformation.Tests.pdb
+C:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\LowerPackPack\LowerPackTranformation.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\LowerPackPack\LowerPackTranformation.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\LowerPackPack\LowerPackTranformation.Tests\bin\Debug\nunit.engine.dll
+C:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\LowerPackPack\LowerPackTranformation.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\LowerPackPack\LowerPackTranformation.Tests\bin\Debug\LowerPackTranformation.Tests.dll
+C:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\LowerPackPack\LowerPackTranformation.Tests\bin\Debug\LowerPackTranformation.Tests.pdb
+C:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\LowerPackPack\LowerPackTranformation.Tests\bin\Debug\LowerPackTranformation.dll
+C:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\LowerPackPack\LowerPackTranformation.Tests\bin\Debug\nunit.framework.dll
+C:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\LowerPackPack\LowerPackTranformation.Tests\bin\Debug\LowerPackTranformation.pdb
+C:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\LowerPackPack\LowerPackTranformation.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\LowerPackPack\LowerPackTranformation.Tests\bin\Debug\nunit.framework.xml
+C:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\LowerPackPack\LowerPackTranformation.Tests\obj\Debug\LowerPackTranformation.Tests.csprojAssemblyReference.cache
+C:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\LowerPackPack\LowerPackTranformation.Tests\obj\Debug\LowerPackTranformation.Tests.csproj.CopyComplete
+C:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\LowerPackPack\LowerPackTranformation.Tests\obj\Debug\LowerPackTranformation.Tests.dll
+C:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\LowerPackPack\LowerPackTranformation.Tests\obj\Debug\LowerPackTranformation.Tests.pdb
